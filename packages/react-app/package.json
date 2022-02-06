@@ -15,6 +15,7 @@
     ]
   },
   "dependencies": {
+    "0xsequence": "^0.36.1",
     "@ant-design/icons": "^4.2.2",
     "@apollo/client": "^3.3.21",
     "@apollo/react-hooks": "^4.0.0",
