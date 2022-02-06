@@ -1,11 +1,6 @@
-# 🏗 Scaffold-ETH
+# PolyList x 🏗 Scaffold-ETH
 
-> everything you need to build on Ethereum! 🚀
-
-🧪 Quickly experiment with Solidity using a frontend that adapts to your smart contract:
-
-![image](https://user-images.githubusercontent.com/2653167/124158108-c14ca380-da56-11eb-967e-69cde37ca8eb.png)
-
+> Ploylist, now implemented on Scaffold Eth
 
 # 🏄‍♂️ Quick Start
 
